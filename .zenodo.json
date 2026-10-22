@@ -1,0 +1,20 @@
+{
+  "creators": [
+    {
+      "affiliation": "ANULUM",
+      "name": "Šotek, Miroslav",
+      "orcid": "0009-0009-3560-0851"
+    }
+  ],
+  "description": "Architecture-only repository validation tooling and design for source-bound simulation-to-fabric comparison. No paired runner, qualified matching or statistical analysis, fidelity certificate or physical measurement is released.",
+  "keywords": [
+    "simulation-to-hardware comparison",
+    "neuromorphic computing",
+    "spike matching",
+    "measurement uncertainty",
+    "reproducibility"
+  ],
+  "license": "AGPL-3.0-or-later",
+  "title": "Sim Real Witness",
+  "upload_type": "software"
+}
