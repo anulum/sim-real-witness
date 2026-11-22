@@ -2,11 +2,11 @@
   "capabilities": [],
   "claims": [],
   "evidence_maturity": "architecture_only",
-  "lifecycle": "local_scaffold",
+  "lifecycle": "public_repository",
   "qualified_owned_schema_ids": [],
   "repository_name": "SIM-REAL-WITNESS",
   "source_metadata": {
     "path": "repository-domain.json",
-    "sha256": "b60dc7f8cce697bac519f9aa5f132fcc290e64ef6d3c40bfe7690d5bc40eae48"
+    "sha256": "08eb0d24a42d12c99bcabb1f8739d1d750f8e9791f1e65f8f8cb0b5e5291849f"
   }
 }

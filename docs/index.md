@@ -12,6 +12,8 @@ SIM-REAL-WITNESS — repository foundation
 
 This repository is preparing source-bound simulation-to-fabric comparison. Its current executable surface is repository validation tooling. It has no installed simulation-to-fabric comparison package, public paired runner or qualified fidelity certificate.
 
+Sim Real Witness is part of the **SC Neuromorphic Computing Systems** group (SC-NEUROMORPHIC-COMPUTING-SYSTEMS). The [group and project map](https://github.com/anulum/sc-neurocore/blob/main/docs/ecosystem.md) shows the whole programme and where this repository sits in it.
+
 The intended workflow binds complete network and decoded logical input identities to separate lane receipts and full observed populations. Greedy matching preserves exact source indices, both clock uncertainties and unmatched observations. State and energy retain their actual availability. Current fabric eligibility requires an admitted measurement chain and separate verification.
 
 Read [Architecture](ARCHITECTURE.md), [validation tooling](validation-tooling.md), [data boundaries](THREAT_MODEL.md) and the [repository boundary decision](adr/0001-repository-boundary.md).

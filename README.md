@@ -12,6 +12,8 @@ SIM-REAL-WITNESS — repository foundation
 
 Sim Real Witness is being built to compare a declared simulator and actual fabric under the same complete network and logical inputs. It will retain spike matching, rate and observable-state differences, optional measured-energy comparison and the measurement chain's uncertainty. This checkout contains repository validation tooling and documentation. Full foundation qualification is in progress. There is no installed simulation-to-fabric comparison package, paired runner, public comparison command or qualified fidelity certificate.
 
+Sim Real Witness is part of the **SC Neuromorphic Computing Systems** group (SC-NEUROMORPHIC-COMPUTING-SYSTEMS). The [group and project map](https://github.com/anulum/sc-neurocore/blob/main/docs/ecosystem.md) shows the whole programme and where this repository sits in it.
+
 ## Boundary
 
 This project owns the paired experiment, source interpretation, deterministic matching, metrics, statistical treatment and scoped evidence. SC-NeuroCore owns simulators and designs; Loop Timing Witness supplies admitted fabric and timebase interfaces. Spike Log owns container interpretation, Evidence Manifest Toolkit supplies shared evidence operations, and model-profile fitting remains with its owner. Studio renders existing findings.
